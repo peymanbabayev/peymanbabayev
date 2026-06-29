@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Peyman%20Babayev&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Front-End%20Developer&descSize=22&descColor=8b949e&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Peyman%20Babayev&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Middle%20Front-End%20Developer&descSize=22&descColor=8b949e&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Enterprise+App+Architecture;Data-Heavy+Dashboard+Engineering;Performance+Optimization+Specialist;React+%7C+Next.js+%7C+TypeScript+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Middle+Front-End+Developer;Growing+into+Senior+Engineering;Building+Scalable+React+Applications;TypeScript+%7C+Next.js+%7C+Clean+Architecture" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,14 +26,14 @@
 
 ```typescript
 const peyman: Developer = {
-  role:       "Senior Front-End Developer",
-  location:   "Azerbaijan 🇦🇿",
-  focus:      [
-                "Enterprise Application Architecture",
-                "Data-Heavy Dashboard Engineering",
-                "Performance Optimization"
-              ],
-  currentGoal: "Building scalable, accessible, and blazing-fast web experiences",
+  role:        "Middle Front-End Developer",
+  location:    "Azerbaijan 🇦🇿",
+  focus:       [
+                 "Component Architecture & Code Reusability",
+                 "Data-Heavy Dashboard Engineering",
+                 "Performance Optimization & Best Practices"
+               ],
+  currentGoal: "Deepening expertise in scalable React patterns and advancing toward Senior level",
   openTo:      ["Full-time", "Freelance", "Remote"],
 };
 ```
@@ -75,46 +75,6 @@ const peyman: Developer = {
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_/_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=peymanbabayev&show_icons=true&theme=github_dark&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=peymanbabayev&theme=github-dark-blue&border=30363d&hide_border=false" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymanbabayev&layout=compact&theme=github_dark&border_color=30363d&hide_border=false&langs_count=8" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/peymanbabayev/project-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanbabayev&repo=project-1&theme=github_dark&border_color=30363d" />
-</a>
-<a href="https://github.com/peymanbabayev/project-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=peymanbabayev&repo=project-2&theme=github_dark&border_color=30363d" />
-</a>
-
-</div>
-
-> 💡 *Replace `project-1` and `project-2` with your actual repository names.*
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=peymanbabayev&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=false" />
 </div>
 
 ---
