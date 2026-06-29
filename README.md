@@ -16,7 +16,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/peymanbabayev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open_to_Work-00875A?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<a href="mailto:peyman.babayev.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-peyman.babayev.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -74,27 +74,6 @@ const peyman: Developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_/_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/peymanbabayev">
-  <img src="https://img.shields.io/badge/LinkedIn-Peyman_Babayev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:peyman@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://peymanbabayev.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
 
 </div>
 
