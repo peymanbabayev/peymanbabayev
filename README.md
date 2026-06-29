@@ -95,9 +95,6 @@ const peyman: Developer = {
   <img src="https://img.shields.io/badge/Portfolio-Visit_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<br/><br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
