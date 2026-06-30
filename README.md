@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Peyman%20Babayev&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Middle%20Front-End%20Developer&descSize=22&descColor=8b949e&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Peyman%20Babayev&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Front-End%20Developer&descSize=22&descColor=8b949e&descAlignY=60&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Middle+Front-End+Developer;Growing+into+Senior+Engineering;Building+Scalable+React+Applications;TypeScript+%7C+Next.js+%7C+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Front-End+Developer;Enterprise+App+Architecture;Building+Scalable+React+Applications;TypeScript+%7C+Next.js+%7C+Clean+Architecture" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,14 +26,14 @@
 
 ```typescript
 const peyman: Developer = {
-  role:        "Middle Front-End Developer",
+  role:        "Front-End Developer",
   location:    "Azerbaijan 🇦🇿",
   focus:       [
                  "Component Architecture & Code Reusability",
                  "Data-Heavy Dashboard Engineering",
                  "Performance Optimization & Best Practices"
                ],
-  currentGoal: "Deepening expertise in scalable React patterns and advancing toward Senior level",
+  currentGoal: "Building scalable, accessible, and high-performance web applications",
   openTo:      ["Full-time", "Freelance", "Remote"],
 };
 ```
